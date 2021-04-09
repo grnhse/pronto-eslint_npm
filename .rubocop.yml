@@ -2,7 +2,7 @@
 AllCops:
   DisplayCopNames: true
   DisplayStyleGuide: true
-  TargetRubyVersion: 2.1.0
+  TargetRubyVersion: 2.3
 
 Documentation:
   Enabled: false
